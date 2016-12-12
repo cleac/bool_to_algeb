@@ -1,4 +1,4 @@
-# BOOLEAN to ALGEBRAIC function convertor
+# BOOLEAN to ARYTHMETIC function convertor
 
 ## What is it?
 
